@@ -1,0 +1,33 @@
+What you get to do in this role:
+
+• Collaborate with PM and developers to better understand how customers interface and use our product to design specific testing strategies for features being developed and automate them
+
+• Generate comprehensive test plans, execute and automate them for web, mobile and hardware platforms flawlessly to deliver on time with the highest quality
+
+• Build, enhance and maintain automation frameworks utilized by team to automate critical user scenarios for regression testing
+
+• Collect and report quality metrics from test executions
+
+• Involve in technical discussions and deep dives with engineers to timely discover and resolve issues
+
+• Support engineering and development organizations in troubleshooting and/or addressing issues with applications and dev/test environments.
+
+To be successful in this role you have:
+
+• 4+ years of software quality assurance and test automation for both mobile applications and web
+
+• Ability to understand various testing techniques (e.g., performance, unit, integration, automated), their strengths and weakness, and ability to use them to best effect – including tracking and addressing of any discovered issues
+
+• Strong CS fundamentals, including OO concepts, data structures, algorithms, and distributed systems.
+
+• Ability to optimize and efficiently use the tools (such as IDE, debugger, build tools, source control, profilers, Postman) to assist with day-to-day tasks
+
+• Fluency with Git, HTML5, CSS3, JavaScript, JQuery, Java and scripting (e.g. JavaScript, Python).
+
+• Proven experience developing comprehensive and effective test and performance tools, as well as frameworks (such as Java, Junit, TestNG, Selenium, Appium, Protractor and other open-source projects)
+
+• Proven ability to drive cross-team technical discussions and decision making with a solid understanding of SDLC concepts
+
+• BS in Computer Science/Engineering or equivalent experience
+
+ 
